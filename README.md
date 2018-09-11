@@ -9,7 +9,7 @@ git clone https://github.com/saigowthamr/reactaccordion.git
 Then you can run it by:
 
 ```bash
-cd reactaacordion
+cd reactaccordion
 npm install
 npm start
 ```
