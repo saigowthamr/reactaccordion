@@ -1,5 +1,9 @@
 # React Accordion
 
+
+Full tutorial is on [reactgo.com](https://reactgo.com)
+
+
 ### Install
 
 ```bash
